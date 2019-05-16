@@ -1,0 +1,11 @@
+---
+version: 1
+service:
+  name: Checklist server
+  lifecycle: 
+  tier: 
+  product: 
+  owner: 
+  language: 
+  framework: 
+  description: Some Desc
